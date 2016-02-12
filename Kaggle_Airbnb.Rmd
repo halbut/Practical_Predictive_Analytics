@@ -218,7 +218,7 @@ I tried a probabilistic approach for "age", "gender" and "language" separate, ho
 
 I was mostly limited by the "5 submissions per day" limit. So I used Cross Validation to test my models locally before submitting.
 
-After building close to 200 models and 60 submissions, I have improved my score from  0.67909, ranking ~900, to 0.88100, ranking 46 (as of this writing).
+After building close to 200 models and 60 submissions, I have improved my score from  0.67909, ranking ~900, to 0.88119, ranking 38th (as of this writing).
 
 For the sake of completeness, here are the steps that I have followed while building models:
 
